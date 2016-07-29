@@ -1,0 +1,9 @@
+# Idea
+.idea
+*.iws
+*.iml
+
+## Java MAVEN
+target
+*.class
+.mvn
